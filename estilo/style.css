@@ -55,10 +55,8 @@ header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));  
     min-height: 150px;
     padding-top: 40px;
-     
-    
 }
-
+/* testando git   dnv*/
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
@@ -77,6 +75,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.254);
 }
 
